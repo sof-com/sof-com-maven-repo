@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>es.upm.dte.softcom.CalculadoraGUI</groupId>
+  <artifactId>calculadora-gui</artifactId>
+  <versioning>
+    <release>5.0.0</release>
+    <versions>
+      <version>5.0.0</version>
+    </versions>
+    <lastUpdated>20240916094126</lastUpdated>
+  </versioning>
+</metadata>
